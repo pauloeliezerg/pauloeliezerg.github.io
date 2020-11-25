@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(20, 170, 100);
+}
+
+#myName {
+  margin-top: 2%;
+  font-family: fantasy;
+  text-align: center;
+}
+
+#bornPlace {
+  font-style: italic;
+}
+
+.skill1,.skill3,.skill5 {
+  font-weight: bold;
+}
+
+.skill2 {
+  font-size: 30px;
+}
+
+#fotoAtualPortfolio {
+  padding: 2%;
+  background-color: firebrick;
+}
