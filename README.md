@@ -15,16 +15,16 @@
 	
 - [x] 3-2: _HTML & CSS - CSS - getting started_
 
-	- [ ] Set different fonts for your name and the description you created;
-	- [ ] Define a base color for your Web Portfolio's background;
-	- [ ] Change the style of the tags you used to highlight some information, such as your nationality and the city / state where you live;
-	- [ ] Put different sizes for the elements of the list of skills that you created. Remember to use classes for each of the elements;
+	- [x] Set different fonts for your name and the description you created;
+	- [x] Define a base color for your Web Portfolio's background;
+	- [x] Change the style of the tags you used to highlight some information, such as your nationality and the city / state where you live;
+	- [x] Put different sizes for the elements of the list of skills that you created. Remember to use classes for each of the elements;
 - [x] 3-3: _HTML & CSS - Selectors and positioning_
 
-	- [ ] Put your name, your photo and the description you wrote about yourself inside blocks;
-	- [ ] The description must be next to the photo;
-	- [ ] Center your name on the page;
-	- [ ] Use padding and add a background color to your photo that is different from the background color of the rest of the page;
-	- [ ] Clarification of margin and padding on elements deemed necessary
-	- [ ] Style only the odd items in your skills list.
+	- [x] Put your name, your photo and the description you wrote about yourself inside blocks;
+	- [x] The description must be next to the photo;
+	- [x] Center your name on the page;
+	- [x] Use padding and add a background color to your photo that is different from the background color of the rest of the page;
+	- [x] Add margin and padding on elements deemed necessary
+	- [x] Style only the odd items in your skills list.
 

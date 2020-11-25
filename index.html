@@ -4,27 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <!--
-        TODO:
-        (x) Seu nome completo;
-        (x) Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
-        (x) Uma breve descrição sobre você, destacando algumas informações como nacionalidade e a cidade/estado onde mora;
-        (x) Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;
-        (x) Um link interno para a sua foto;
-        (x) Um link externo para algum blog de que você goste, que abra em uma nova aba;
-        (x) Partes do seu portfólio destacadas com negrito e/ou itálico;
-        (x) Um índice com links internos para as diferentes seções do seu portfólio.
-    -->
-    
     <!--Nome-->
 
-        <h1>Paulo Eliezer</h1>
+        <div><h1 id="myName">Paulo Eliezer</h1></div>
 
     <!--Foto-->
 
-        <img id="fotoAtualPortfolio" src="images/fotoAtualPortfolio.jpg" alt="Foto atual de pessoa estudante da Trybe" width="300">
+        <div><img id="fotoAtualPortfolio" src="images/fotoAtualPortfolio.jpg" alt="Foto atual de pessoa estudante da Trybe" width="300"></div>
+
+    <!--Sobre-->
+
+        <div>
+            <h2 id="sobre">Sobre:</h2>
+            <ul>
+                <li><strong>Desenvolvedor Web</strong> em formação;</li>
+                <li>Nasci e moro em <span id="bornPlace">Fortaleza-CE</span>.</li> 
+            </ul>
+        </div>
     
     <!--Índice (links internos)-->
         
@@ -36,23 +35,15 @@
             <li><a href="#linkExterno">Trybe</a></li>
         </ul>
 
-    <!--Sobre-->
-
-        <h2 id="sobre">Sobre:</h2>
-        <ul>
-            <li><strong>Desenvolvedor web</strong> em formação;</li>
-            <li>Nasci e moro em Fortaleza-CE.</li>
-        </ul>
-
     <!--Skills-->
 
         <h2 id="skills">Skills:</h2>
         <ul>
-            <li>Python</li>
-            <li><em>C/C++</em></li>
-            <li>Unix</li>
-            <li>html5/CSS/JavaScript</li>
-            <li>PHP/MySQL</li>
+            <li class="skill1">Python</li>
+            <li class="skill2"><em>C/C++</em></li>
+            <li class="skill3">Unix</li>
+            <li class="skill4">html5/CSS/JavaScript</li>
+            <li class="skill5">PHP/MySQL</li>
         </ul>
 
     <!--Link externo-->
